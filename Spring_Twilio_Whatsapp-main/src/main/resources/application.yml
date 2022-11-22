@@ -1,0 +1,10 @@
+twilio:
+  account_sid: AC11daec51cb1fbbae5d6cef8f25cc5702
+  auth_token: c2f8831533c869c5b16d98bf9c530d74
+  from_number: "+14155238886"
+  
+  #server-config
+server:
+  port: 8080
+  servlet:
+    context-path: /twilio
